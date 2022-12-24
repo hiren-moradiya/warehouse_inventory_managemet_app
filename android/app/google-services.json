@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105498262010",
+    "project_id": "warehouse-inventory-app-155b3",
+    "storage_bucket": "warehouse-inventory-app-155b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105498262010:android:e762223194b07250d60c43",
+        "android_client_info": {
+          "package_name": "com.warehouse_inventory_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105498262010-om8t8u7sus21rp1pih21gdh2ebfqkhsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfHa8SiZHOkQTmD5Q_mLBdjBN3iCbtk2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105498262010-om8t8u7sus21rp1pih21gdh2ebfqkhsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
